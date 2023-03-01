@@ -1,4 +1,4 @@
-package Pertemuan2;
+package Pertemuan2_kampus;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
